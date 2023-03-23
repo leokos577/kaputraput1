@@ -1,0 +1,398 @@
+*{ outline: 1px black solid;
+margin: 0px;
+
+
+
+}
+.container{
+
+width: 1400px;
+height: 2845px;
+margin-left: auto;
+margin-right: auto;
+
+}
+.first{
+height: 700px;
+width: 100%;
+
+
+
+
+
+
+
+
+
+}
+.first-1{
+height: 75px;
+width: 100%;
+background-color: black;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.gumy{
+text-decoration: none;
+font-size: 15px;
+color: white;
+transition: 0.5s all ease-in-out;
+
+}
+.gumy:hover{
+background-color: red;
+height: 15px;
+width: 55px;
+text-align: center;
+font-size: 10px;
+border-radius: 5px;
+
+}
+
+
+
+.first-2{
+height: 625px;
+width: 100%;
+background-image: url(img/photodune-3598715-woman-in-red-m.jpg);
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+}
+.red{
+color: red;
+
+
+}
+.ret{
+font-size: 60px;
+
+color:white;
+
+
+
+
+
+}
+.fert{
+
+color: white;
+text-align: center;
+display: flex;
+justify-content: center;
+
+align-items: center;
+font-size: 20px;
+
+}
+.first-2-1{
+height: 100px;
+width: 425px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 40px;
+
+
+
+}
+.first-2-2{
+height: 70px;
+width: 1400px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 40px;
+}
+.rym{
+    width: 175px;
+height: 55px;
+background-color: red;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.gym{
+
+    width: 175px;
+    height: 55px;
+    background-color: rgb(31, 30, 30);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+
+}
+.first-2-3{
+margin-top: 40px;
+width: 410px;
+height: 80px;
+display:flex;
+justify-content: space-around;
+align-items: center;
+
+}
+.rek{
+
+
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+    
+
+
+
+
+
+}
+.second{
+width: 100%;
+height: 1175px;
+
+
+
+
+
+}
+.second-1{
+width: 100%;
+height: 285px;
+display:flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+gap: 40px;
+
+
+}
+.red-pink{
+color: rgb(255, 0, 85);
+
+
+
+}
+.rwe{
+
+font-size: 15px;
+
+
+
+
+}
+.second-2{
+height: 370px;
+width: 100%;
+display:flex;
+justify-content: space-around;
+align-items: center;
+
+
+
+
+
+
+}
+.second-2-1{
+width: 35%;
+height: 100%;
+display:flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+}
+.second-2-2{
+width: 50%;
+height: 100%;
+display:flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+
+
+
+
+
+
+}
+.club{
+width: 15%;
+height: 50px;
+display:flex;
+justify-content: center;
+align-items: center;
+
+
+
+}
+.face{
+width: 480px;
+height: 50px;
+display:flex;
+
+align-items: center;
+margin-top: 40px;
+
+}
+.ferter{
+font-size: 22px;
+margin-left: 20px;
+color: rgb(255, 0, 106);
+text-decoration: none;
+
+
+}
+
+.club-1{
+width: 15%;
+height: 50px;
+display:flex;
+justify-content: center;
+align-items: center;
+
+
+
+}
+.face-1{
+width: 480px;
+height: 50px;
+display:flex;
+
+align-items: center;
+margin-top: 15px;}
+.jojo{
+width: 15%;
+height: 50px;
+display:flex;
+justify-content: center;
+align-items: center;
+
+
+
+}
+.rambo{
+width: 480px;
+height: 50px;
+display:flex;
+
+align-items: center;
+margin-top: 15px;
+}
+
+
+.fertur{
+font-size: 22px;
+margin-left: 20px;
+color: rgb(29, 27, 28);
+text-decoration: none;}
+.bumbum{
+height: 535px;
+width: 100%;
+
+
+
+
+}
+.hytko{
+
+height: 210px;
+width: 100%;
+display:flex;
+justify-content: center;
+align-items: center;
+
+}
+.gunbool{
+height: 325px;
+width: 100%;
+display:flex;
+justify-content: space-around;
+align-items: center;
+
+
+
+
+
+}
+.ddddd{
+
+font-size: 30px;
+
+
+
+
+}
+.dekart{
+height: 220px;
+width: 270px;
+gap: 15px;
+display:flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+text-align: center;
+
+}
+.fartuna{
+height: 1075px;
+width: 100%;
+background-color: rgb(41, 41, 41);
+
+
+
+}
+.iky{
+width: 100%;
+height:270px ;
+display:flex;
+justify-content: center;
+gap:20px ;
+align-items: center;
+background-color: rgb(41, 41, 41);
+flex-direction: column;
+}
+.lohbum {
+  font-size: 25px;
+color: white;
+
+}
+.gugush{
+
+color: gray;
+font-size: 18px;
+
+}
+.red-5{
+color: red;
+gap: 20px;
+
+}
+.hyty{
+display: flex;
+justify-content: space-between;
+align-items: center;
+width: 405px;
+height: 25px;
+
+}
+
+.gugant{
+height: 700px;
+width: 100%;
+
+
+}
+.caca{
+width: 100%;
+height: 50%;
+display: flex;
+
+
+}
